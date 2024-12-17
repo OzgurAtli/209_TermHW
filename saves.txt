@@ -1,0 +1,3 @@
+Charecter healt 100
+Charecter attack power 75
+Current room number: 2

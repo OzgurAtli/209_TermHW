@@ -1,0 +1,14 @@
+1   Empty and cold room
+2   There is a chest.
+3   There is a small creature with three eyes.
+4   There is a chest.
+5   There is a bunch of people and a table. You see a lockpick on the table.
+6   You see a creature that is bigger than the last one.
+7   A guard who is almost dead, his body is still warm. You can take his armor.
+8   There is a monster you have never seen before, and there is a health potion.
+9   This is the king's room. The king is already dead, and his body still holds the golden sword.
+10  There is only dust and ashes. In the ashes. You see a book
+11  You hear growling coming from the next room.
+12  Your last enemy stands before you, between you and the Elixir of Life: the Ancient Dragon.
+13  The Elixir of Life is in front of you.
+14  Now you leave the castle once and for all.
